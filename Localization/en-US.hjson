@@ -1,0 +1,91 @@
+Mods:{
+	CuteKomeijiKoishi:{
+		ItemName:
+		{
+			YellowThread:Yellow Thread
+			MrHat:'''Mr.Hat'''
+			Origin_MrHat:'''Mr.Hat'''
+			Satori_MrHat:'''Satori's Mr.Hat'''
+			SilverCyanDark_MrHat:'''ColdShadow Mr.Hat'''
+			DarkGreen_MrHat:'''DeepForest Mr.Hat'''
+			Yuki_MrHat:'''YukiStyle Mr.Hat'''
+			Mai_MrHat:'''MaiStyle Mr.Hat'''
+			Pink_MrHat:'''Pinky Mr.Hat'''
+			Yumemi_MrHat:'''YumemiStyle Mr.Hat'''
+			Flandre_MrHat:'''FlandreStyle Mr.Hat'''
+			Golden_MrHat:'''Golden Mr.Hat'''
+			Diamond_MrHat:'''Diamond Mr.Hat'''
+			Silver_MrHat:'''Silver Mr.Hat'''
+			Copper_MrHat:'''Copper Mr.Hat'''
+			Crimson_MrHat:'''Crimson Mr.Hat'''
+			NikoColor_MrHat:'''NikoStyle Mr.Hat'''
+			MadelineColor_MrHat:'''MadelineStyle Mr.Hat'''
+			PurpleSatori_MrHat:'''Satori's Purple Mr.Hat'''
+		}
+		ItemTooltip:
+		{
+			YellowThread: '''Yellow Thread specially prepared for Mr.Hat!!'''
+			MrHat:'''Mr.Hat[i:29] Is a good friend for Koishi, use it To let her appear!'''
+			Origin_MrHat:'''Mr.Hat[i:29] Is a good friend for Koishi, use it To let her appear!'''
+			Satori_MrHat:'''Mr.Hat is even Satori's good friend!'''
+			SilverCyanDark_MrHat:'''There are even more color matching for Mr.Hat'''
+			DarkGreen_MrHat:'''There are even more color matching for Mr.Hat'''
+			Yuki_MrHat:'''There are even more color matching for Mr.Hat'''
+			Mai_MrHat:'''There are even more color matching for Mr.Hat'''
+			Pink_MrHat:'''There are even more color matching for Mr.Hat'''
+			Yumemi_MrHat:'''There are even more color matching for Mr.Hat'''
+			Flandre_MrHat:'''There are even more color matching for Mr.Hat'''
+			Golden_MrHat:'''There are even more color matching for Mr.Hat'''
+			Diamond_MrHat:'''There are even more color matching for Mr.Hat'''
+			Silver_MrHat:'''There are even more color matching for Mr.Hat'''
+			Copper_MrHat:'''There are even more color matching for Mr.Hat'''
+			Crimson_MrHat:'''There are even more color matching for Mr.Hat'''
+			NikoColor_MrHat:'''There are even more color matching for Mr.Hat'''
+			MadelineColor_MrHat:'''There are even more color matching for Mr.Hat'''
+			PurpleSatori_MrHat:'''There are even more color matching for Mr.Hat, while this one is belong to Satori'''
+		}
+		BuffName: 
+		{
+			HereIsKoishi: '''"Here Is Koishi!"'''
+			Origin_HereIsKoishi:'''"Here Is Koishi!"'''
+			Satori_HereIsKoishi:'''"Here Is Satori!"'''
+			SilverCyanDark_HereIsKoishi:'''"Here Is Koishi!"'''
+			DarkGreen_HereIsKoishi:'''"Here Is Koishi!"'''
+			Yuki_HereIsKoishi:'''"Here Is Koishi!"'''
+			Mai_HereIsKoishi:'''"Here Is Koishi!"'''
+			Pink_HereIsKoishi:'''"Here Is Koishi!"'''
+			Yumemi_HereIsKoishi:'''"Here Is Koishi!"'''
+			Flandre_HereIsKoishi:'''"Here Is Koishi!"'''
+			Golden_HereIsKoishi:'''"Here Is Koishi!"'''
+			Diamond_HereIsKoishi:'''"Here Is Koishi!"'''
+			Silver_HereIsKoishi:'''"Here Is Koishi!"'''
+			Copper_HereIsKoishi:'''"Here Is Koishi!"'''
+			Crimson_HereIsKoishi:'''"Here Is Koishi!"'''
+			NikoColor_HereIsKoishi:'''"Here Is Koishi!"'''
+			MadelineColor_HereIsKoishi:'''"Here Is Koishi!"'''
+			PurpleSatori_HereIsKoishi:'''"Here Is Satori!"'''
+		}
+		
+		BuffDescription: 
+		{
+			HereIsKoishi: '''——Oh, Wait A Minute! She has had A Hat.'''
+			Origin_HereIsKoishi:'''——Oh, Wait A Minute! She has had A Hat.'''
+			Satori_HereIsKoishi:'''——Are you Komeiji sisters carved from the same mold?'''
+			SilverCyanDark_HereIsKoishi:'''——Wow, ColdShadow this Time.'''
+			DarkGreen_HereIsKoishi:'''——Wow, DeepForest this Time.'''
+			Yuki_HereIsKoishi: '''——Wow, YukiStyle this Time.'''
+			Mai_HereIsKoishi:'''——Wow, MaiStyle this Time.'''
+			Pink_HereIsKoishi: '''——Wow, Pinky this Time.'''
+			Yumemi_HereIsKoishi:'''——Wow, YumemiStyle this Time.'''
+			Flandre_HereIsKoishi: '''——Wow, FlandreStyle this Time.'''
+			Golden_HereIsKoishi:'''——Wow, Golden this Time.'''
+			Diamond_HereIsKoishi: '''——Wow, Diamond this Time.'''
+			Silver_HereIsKoishi:'''——Wow, Silver this Time.'''
+			Copper_HereIsKoishi: '''——Wow, Copper this Time.'''
+			Crimson_HereIsKoishi:'''——Wow, Crimson this Time.'''
+			NikoColor_HereIsKoishi:'''——Wow, NikoStyle this Time.'''
+			MadelineColor_HereIsKoishi:'''——Wow, MadelineStyle this Time.'''
+			PurpleSatori_HereIsKoishi:'''——Satori changes her color as well.'''
+		}
+	}
+}

@@ -1,0 +1,92 @@
+Mods:{
+	CuteKomeijiKoishi:{
+		ItemName:
+		{
+			YellowThread:黄线
+			MrHat:'''帽子先生'''
+			Origin_MrHat:'''帽子先生'''
+			Satori_MrHat:'''觉酱的帽子先生'''
+			SilverCyanDark_MrHat:'''寒影帽子先生'''
+			DarkGreen_MrHat:'''深緑散歩'''
+			Yuki_MrHat:'''雪配色帽子先生'''
+			Mai_MrHat:'''舞配色帽子先生'''
+			Pink_MrHat:'''粉色帽子先生'''
+			Yumemi_MrHat:'''梦美配色帽子先生'''
+			Flandre_MrHat:'''芙兰配色帽子先生'''
+			Golden_MrHat:'''耀金帽子先生'''
+			Diamond_MrHat:'''辉钻帽子先生'''
+			Silver_MrHat:'''闪银帽子先生'''
+			Copper_MrHat:'''纯铜帽子先生'''
+			Crimson_MrHat:'''绯红帽子先生'''
+			NikoColor_MrHat:'''Niko配色帽子先生'''
+			MadelineColor_MrHat:'''Madeline配色帽子先生'''
+			PurpleSatori_MrHat:'''觉酱的紫色帽子先生'''
+		}
+		ItemTooltip:
+		{
+			YellowThread:'''为帽子先生特意准备的黄线！！'''
+			MrHat:'''帽子先生[i:29]是恋恋的好朋友，快用它钓恋恋吧！'''
+			Origin_MrHat:'''帽子先生[i:29]是恋恋的好朋友，快用它钓恋恋吧！'''
+			Satori_MrHat:'''帽子先生甚至还是觉酱的好朋友！'''
+			SilverCyanDark_MrHat:'''甚至还有更多配色的帽子先生'''
+			DarkGreen_MrHat:'''甚至还有更多配色的帽子先生'''
+			Yuki_MrHat:'''甚至还有更多配色的帽子先生'''
+			Mai_MrHat:'''甚至还有更多配色的帽子先生'''
+			Pink_MrHat:'''甚至还有更多配色的帽子先生'''
+			Yumemi_MrHat:'''甚至还有更多配色的帽子先生'''
+			Flandre_MrHat:'''甚至还有更多配色的帽子先生'''
+			Golden_MrHat:'''甚至还有更多配色的帽子先生'''
+			Diamond_MrHat:'''甚至还有更多配色的帽子先生'''
+			Silver_MrHat:'''甚至还有更多配色的帽子先生'''
+			Copper_MrHat:'''甚至还有更多配色的帽子先生'''
+			Crimson_MrHat:'''甚至还有更多配色的帽子先生'''
+			NikoColor_MrHat:'''甚至还有更多配色的帽子先生'''
+			MadelineColor_MrHat:'''甚至还有更多配色的帽子先生'''
+			PurpleSatori_MrHat:'''甚至还有更多配色的帽子先生，不过这个是属于觉酱的。'''
+		}
+		BuffName: 
+		{
+			HereIsKoishi: '''"小恋在这里!"'''
+			Origin_HereIsKoishi:'''"小恋在这里!"'''
+			Satori_HereIsKoishi:'''"小觉来了哦!"'''
+			SilverCyanDark_HereIsKoishi:'''"小恋在这里!"'''
+			DarkGreen_HereIsKoishi:'''"小恋在这里!"'''
+			Yuki_HereIsKoishi:'''"小恋在这里!"'''
+			Mai_HereIsKoishi:'''"小恋在这里!"'''
+			Pink_HereIsKoishi:'''"小恋在这里!"'''
+			Yumemi_HereIsKoishi:'''"小恋在这里!"'''
+			Flandre_HereIsKoishi:'''"小恋在这里!"'''
+			Golden_HereIsKoishi:'''"小恋在这里!"'''
+			Diamond_HereIsKoishi:'''"小恋在这里!"'''
+			Silver_HereIsKoishi:'''"小恋在这里!"'''
+			Copper_HereIsKoishi:'''"小恋在这里!"'''
+			Crimson_HereIsKoishi:'''"小恋在这里!"'''
+			NikoColor_HereIsKoishi:'''"小恋在这里!"'''
+			MadelineColor_HereIsKoishi:'''"小恋在这里!"'''
+			PurpleSatori_HereIsKoishi:'''"小觉来了哦!"'''
+
+		}
+		
+		BuffDescription: 
+		{
+			HereIsKoishi: '''——哦等等，她头上已经有帽子了。'''
+			Origin_HereIsKoishi:'''——哦等等，她头上已经有帽子了。'''
+			Satori_HereIsKoishi:'''——你们古明地姐妹是一个模子里刻出来的吧'''
+			SilverCyanDark_HereIsKoishi:'''——哇哦，这次是寒影配色的'''
+			DarkGreen_HereIsKoishi:'''——哇哦，这次是墨绿配色的'''
+			Yuki_HereIsKoishi: '''——哇哦，这次是雪配色的'''
+			Mai_HereIsKoishi:'''——哇哦，这次是舞的'''
+			Pink_HereIsKoishi: '''——哇哦，这次是粉色的'''
+			Yumemi_HereIsKoishi:'''——哇哦，这次是梦美配色的'''
+			Flandre_HereIsKoishi: '''——哇哦，这次是芙兰配色的'''
+			Golden_HereIsKoishi:'''——哇哦，这次是金色的'''
+			Diamond_HereIsKoishi: '''——哇哦，这次是天青色的'''
+			Silver_HereIsKoishi:'''——哇哦，这次是银色的'''
+			Copper_HereIsKoishi: '''——哇哦，这次是铜色的'''
+			Crimson_HereIsKoishi:'''——哇哦，这次是绯红色的'''
+			NikoColor_HereIsKoishi:'''——哇哦，这次是Niko配色的'''
+			MadelineColor_HereIsKoishi:'''——哇哦，这次是Madeline配色的'''
+			PurpleSatori_HereIsKoishi:'''——觉也改配色了呢。'''
+		}
+	}
+}

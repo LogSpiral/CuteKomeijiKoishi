@@ -1,0 +1,3 @@
+displayName = 古明地恋Koishi
+author = 阿汪(LogSpiral)
+version = 0.1
