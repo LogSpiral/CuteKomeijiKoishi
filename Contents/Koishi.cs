@@ -9,6 +9,7 @@ using Terraria.Audio;
 using Terraria.DataStructures;
 using Terraria.GameContent;
 using Terraria.GameContent.Creative;
+using Terraria.Graphics.Shaders;
 using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
@@ -160,7 +161,23 @@ namespace CuteKomeijiKoishi.Contents
             //Niko,
             NikoColor,
             MadelineColor,
-            PurpleSatori
+            PurpleSatori,
+            Ash,
+            BlackWhite,
+            Bright,
+            Cold,
+            CopperOld,
+            Crystal,
+            CyanBlack,
+            GoldenOld,
+            Luminite,
+            Metor,
+            Nebula,
+            Sky,
+            Solar,
+            StarDust,
+            Vortex,
+
         }
         public KoishiStyle style;
         public int sleepCounter;
@@ -361,6 +378,7 @@ namespace CuteKomeijiKoishi.Contents
                             var dust = Dust.NewDustPerfect(Projectile.Center + unit * n + Projectile.velocity + Main.rand.NextVector2Unit(), n == 1 ? DustID.Clentaminator_Cyan : DustID.TheDestroyer, null, 0, Color.White, (1 + fac) * .5f + Main.rand.NextFloat(0, .25f));// 
                             dust.noGravity = true;
                             dust.velocity *= .625f;
+                            dust.shader = GameShaders.Armor.GetShaderFromItemId(player.miscDyes[0].type);
                         }
                     }
 
@@ -412,6 +430,8 @@ namespace CuteKomeijiKoishi.Contents
                                 var dust = Dust.NewDustPerfect(Projectile.Center + unit * (n == 0 ? 1 : -.5f), DustID.Clentaminator_Blue, null, 0, Color.White, 1 + fac * .5f);
                                 dust.noGravity = true;
                                 dust.velocity *= .75f;
+                                dust.shader = GameShaders.Armor.GetShaderFromItemId(player.miscDyes[0].type);
+
                             }
                         }
 
@@ -424,7 +444,7 @@ namespace CuteKomeijiKoishi.Contents
                     {
                         for (int n = 0; n < 30; n++)
                         {
-                            Dust.NewDustPerfect(Projectile.Center, DustID.Clentaminator_Blue, -Main.rand.NextFloat(0, MathHelper.Pi).ToRotationVector2() * Main.rand.NextFloat(0, 8f), 0, default, Main.rand.NextFloat(.5f, 1.5f));
+                            Dust.NewDustPerfect(Projectile.Center, DustID.Clentaminator_Blue, -Main.rand.NextFloat(0, MathHelper.Pi).ToRotationVector2() * Main.rand.NextFloat(0, 8f), 0, default, Main.rand.NextFloat(.5f, 1.5f)).shader = GameShaders.Armor.GetShaderFromItemId(player.miscDyes[0].type);
                         }
                         SoundEngine.PlaySound(SoundID.Item10, Projectile.Center);//整活就听62
                     }
@@ -755,9 +775,13 @@ namespace CuteKomeijiKoishi.Contents
                         else state = KoishiState.Run;
                         if (Math.Sign(Projectile.velocity.X) != 0)
                             Projectile.spriteDirection = Math.Sign(Projectile.velocity.X);
-
                         if (state == KoishiState.Run || Main.rand.NextBool(3))
-                            Dust.NewDustPerfect(Projectile.Center + new Vector2(Projectile.velocity.X, 12), DustID.Clentaminator_Blue, default, 0, default, Main.rand.NextFloat(.5f, 1.5f)).velocity *= .25f;
+                        {
+                            var dust = Dust.NewDustPerfect(Projectile.Center + new Vector2(Projectile.velocity.X, 12), DustID.Clentaminator_Blue, default, 0, default, Main.rand.NextFloat(.5f, 1.5f));
+                            dust.velocity *= .25f;
+                            dust.shader = GameShaders.Armor.GetShaderFromItemId(player.miscDyes[0].type);
+                        }
+
                         //}
                     }
                     #endregion
