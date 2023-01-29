@@ -21,6 +21,21 @@ Mods:{
 			NikoColor_MrHat:'''Niko配色帽子先生'''
 			MadelineColor_MrHat:'''Madeline配色帽子先生'''
 			PurpleSatori_MrHat:'''觉酱的紫色帽子先生'''
+			Ash_MrHat:'''灰烬帽子先生'''
+			BlackWhite_MrHat:'''黑白帽子先生'''
+			Bright_MrHat:'''亮帽子先生'''
+			Cold_MrHat:'''冷帽子先生'''
+			CopperOld_MrHat:'''旧铜帽子先生'''
+			Crystal_MrHat:'''水晶帽子先生'''
+			CyanBlack_MrHat:'''青黑帽子先生'''
+			GoldenOld_MrHat:'''旧金帽子先生'''
+			Luminite_MrHat:'''夜明帽子先生'''
+			Meteor_MrHat:'''陨铁帽子先生'''
+			Nebula_MrHat:'''星云帽子先生'''
+			Sky_MrHat:'''天域帽子先生'''
+			Solar_MrHat:'''日耀帽子先生'''
+			StarDust_MrHat:'''星尘帽子先生'''
+			Vortex_MrHat:'''星璇帽子先生'''
 		}
 		ItemTooltip:
 		{
@@ -43,6 +58,21 @@ Mods:{
 			NikoColor_MrHat:'''甚至还有更多配色的帽子先生'''
 			MadelineColor_MrHat:'''甚至还有更多配色的帽子先生'''
 			PurpleSatori_MrHat:'''甚至还有更多配色的帽子先生，不过这个是属于觉酱的。'''
+			Ash_MrHat:'''甚至还有更多配色的帽子先生'''
+			BlackWhite_MrHat:'''甚至还有更多配色的帽子先生'''
+			Bright_MrHat:'''甚至还有更多配色的帽子先生'''
+			Cold_MrHat:'''甚至还有更多配色的帽子先生'''
+			CopperOld_MrHat:'''甚至还有更多配色的帽子先生'''
+			Crystal_MrHat:'''甚至还有更多配色的帽子先生'''
+			CyanBlack_MrHat:'''甚至还有更多配色的帽子先生'''
+			GoldenOld_MrHat:'''甚至还有更多配色的帽子先生'''
+			Luminite_MrHat:'''甚至还有更多配色的帽子先生'''
+			Meteor_MrHat:'''甚至还有更多配色的帽子先生'''
+			Nebula_MrHat:'''甚至还有更多配色的帽子先生'''
+			Sky_MrHat:'''甚至还有更多配色的帽子先生'''
+			Solar_MrHat:'''甚至还有更多配色的帽子先生'''
+			StarDust_MrHat:'''甚至还有更多配色的帽子先生'''
+			Vortex_MrHat:'''甚至还有更多配色的帽子先生'''
 		}
 		BuffName: 
 		{
@@ -64,7 +94,21 @@ Mods:{
 			NikoColor_HereIsKoishi:'''"小恋在这里!"'''
 			MadelineColor_HereIsKoishi:'''"小恋在这里!"'''
 			PurpleSatori_HereIsKoishi:'''"小觉来了哦!"'''
-
+			Ash_HereIsKoishi:'''"小恋在这里!"'''
+			BlackWhite_HereIsKoishi:'''"小恋在这里!"'''
+			Bright_HereIsKoishi:'''"小恋在这里!"'''
+			Cold_HereIsKoishi:'''"小恋在这里!"'''
+			CopperOld_HereIsKoishi:'''"小恋在这里!"'''
+			Crystal_HereIsKoishi:'''"小恋在这里!"'''
+			CyanBlack_HereIsKoishi:'''"小恋在这里!"'''
+			GoldenOld_HereIsKoishi:'''"小恋在这里!"'''
+			Luminite_HereIsKoishi:'''"小恋在这里!"'''
+			Meteor_HereIsKoishi:'''"小恋在这里!"'''
+			Nebula_HereIsKoishi:'''"小恋在这里!"'''
+			Sky_HereIsKoishi:'''"小恋在这里!"'''
+			Solar_HereIsKoishi:'''"小恋在这里!"'''
+			StarDust_HereIsKoishi:'''"小恋在这里!"'''
+			Vortex_HereIsKoishi:'''"小恋在这里!"'''
 		}
 		
 		BuffDescription: 
@@ -87,6 +131,21 @@ Mods:{
 			NikoColor_HereIsKoishi:'''——哇哦，这次是Niko配色的'''
 			MadelineColor_HereIsKoishi:'''——哇哦，这次是Madeline配色的'''
 			PurpleSatori_HereIsKoishi:'''——觉也改配色了呢。'''
+			Ash_HereIsKoishi:'''——哇哦，这次是灰烬色的'''
+			BlackWhite_HereIsKoishi:'''——哇哦，这次是黑白色的'''
+			Bright_HereIsKoishi:'''——哇哦，这次是亮色的'''
+			Cold_HereIsKoishi:'''——哇哦，这次是冷色的'''
+			CopperOld_HereIsKoishi:'''——哇哦，这次是铜色的'''
+			Crystal_HereIsKoishi:'''——哇哦，这次是水晶色的'''
+			CyanBlack_HereIsKoishi:'''——哇哦，这次是青黑色的'''
+			GoldenOld_HereIsKoishi:'''——哇哦，这次是金色的'''
+			Luminite_HereIsKoishi:'''——哇哦，这次是夜明色的'''
+			Meteor_HereIsKoishi:'''——哇哦，这次是陨铁色的'''
+			Nebula_HereIsKoishi:'''——哇哦，这次是星云色的'''
+			Sky_HereIsKoishi:'''——哇哦，这次是天域色的'''
+			Solar_HereIsKoishi:'''——哇哦，这次是日耀色的'''
+			StarDust_HereIsKoishi:'''——哇哦，这次是星尘色的'''
+			Vortex_HereIsKoishi:'''——哇哦，这次是星璇色的'''
 		}
 	}
 }

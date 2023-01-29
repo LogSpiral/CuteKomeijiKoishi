@@ -171,7 +171,7 @@ namespace CuteKomeijiKoishi.Contents
             CyanBlack,
             GoldenOld,
             Luminite,
-            Metor,
+            Meteor,
             Nebula,
             Sky,
             Solar,
@@ -207,7 +207,7 @@ namespace CuteKomeijiKoishi.Contents
             get => Projectile.frame;
             set => Projectile.frame = value;
         }
-        public Texture2D CurrentTex => ModContent.Request<Texture2D>($"CuteKomeijiKoishi/Contents/Textures/{style}/{state}").Value;
+        public Texture2D CurrentTex => ModContent.Request<Texture2D>($"CuteKomeijiKoishi/Contents/Textures/{style}/{state}", ReLogic.Content.AssetRequestMode.ImmediateLoad).Value;
         public void ResetFrameData()
         {
             FrameCounter = 0;
@@ -826,7 +826,18 @@ namespace CuteKomeijiKoishi.Contents
             if (Frame >= MaxFrame) Frame = MaxFrame - 1;
             if (Frame < 0) Frame = 0;
             //Main.NewText((Frame, MaxFrame, state));
+            //_ = 0;
+            //var p = ModContent.Request<Texture2D>($"CuteKomeijiKoishi/Contents/Textures/{style}/{state}",ReLogic.Content.AssetRequestMode.ImmediateLoad);
+            //var set = (false, false, false, false);
+            //if (p != null)
+            //{
+            //    set = (p.IsLoaded, p.IsDisposed, p.Value.IsDisposed, false);
+            //}
+            //else set.Item4 = true;
+            //Main.NewText(set);
+            //Main.NewText((Frame, MaxFrame));
             Main.EntitySpriteDraw(CurrentTex, Projectile.Center - Main.screenPosition, new Rectangle(0, 32 * Projectile.frame, 32, 32), lightColor, Projectile.rotation, new Vector2(16, 26), 2f, Projectile.spriteDirection == 1 ? 0 : SpriteEffects.FlipHorizontally, 0);
+            //_ = 0;
             //Main.spriteBatch.DrawString(FontAssets.MouseText.Value, (Projectile.ai[0], Projectile.ai[1], Projectile.localAI[0], Projectile.localAI[1], Projectile.tileCollide).ToString(), Projectile.Center - Main.screenPosition + new Vector2(0, 32), Main.DiscoColor);
             //Main.spriteBatch.DrawString(FontAssets.MouseText.Value, (Frame, MaxFrame, state, Projectile.spriteDirection, Main.player[Projectile.owner].velocity).ToString(), Projectile.Center - Main.screenPosition + new Vector2(0, 48), Main.DiscoColor);
             return false;

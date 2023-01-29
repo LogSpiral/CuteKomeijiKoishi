@@ -21,6 +21,21 @@ Mods:{
 			NikoColor_MrHat:'''NikoStyle Mr.Hat'''
 			MadelineColor_MrHat:'''MadelineStyle Mr.Hat'''
 			PurpleSatori_MrHat:'''Satori's Purple Mr.Hat'''
+			Ash_MrHat:'''Ash Mr.Hat'''
+			BlackWhite_MrHat:'''BlackWhite Mr.Hat'''
+			Bright_MrHat:'''Bright Mr.Hat'''
+			Cold_MrHat:'''Cold Mr.Hat'''
+			CopperOld_MrHat:'''CopperOld Mr.Hat'''
+			Crystal_MrHat:'''Crystal Mr.Hat'''
+			CyanBlack_MrHat:'''CyanBlack Mr.Hat'''
+			GoldenOld_MrHat:'''GoldenOld Mr.Hat'''
+			Luminite_MrHat:'''Luminite Mr.Hat'''
+			Meteor_MrHat:'''Meteor Mr.Hat'''
+			Nebula_MrHat:'''Nebula Mr.Hat'''
+			Sky_MrHat:'''Sky Mr.Hat'''
+			Solar_MrHat:'''Solar Mr.Hat'''
+			StarDust_MrHat:'''StarDust Mr.Hat'''
+			Vortex_MrHat:'''Vortex Mr.Hat'''
 		}
 		ItemTooltip:
 		{
@@ -43,6 +58,22 @@ Mods:{
 			NikoColor_MrHat:'''There are even more color matching for Mr.Hat'''
 			MadelineColor_MrHat:'''There are even more color matching for Mr.Hat'''
 			PurpleSatori_MrHat:'''There are even more color matching for Mr.Hat, while this one is belong to Satori'''
+			Ash_MrHat:'''There are even more color matching for Mr.Hat'''
+			BlackWhite_MrHat:'''There are even more color matching for Mr.Hat'''
+			Bright_MrHat:'''There are even more color matching for Mr.Hat'''
+			Cold_MrHat:'''There are even more color matching for Mr.Hat'''
+			CopperOld_MrHat:'''There are even more color matching for Mr.Hat'''
+			Crystal_MrHat:'''There are even more color matching for Mr.Hat'''
+			CyanBlack_MrHat:'''There are even more color matching for Mr.Hat'''
+			GoldenOld_MrHat:'''There are even more color matching for Mr.Hat'''
+			Luminite_MrHat:'''There are even more color matching for Mr.Hat'''
+			Meteor_MrHat:'''There are even more color matching for Mr.Hat'''
+			Nebula_MrHat:'''There are even more color matching for Mr.Hat'''
+			Sky_MrHat:'''There are even more color matching for Mr.Hat'''
+			Solar_MrHat:'''There are even more color matching for Mr.Hat'''
+			StarDust_MrHat:'''There are even more color matching for Mr.Hat'''
+			Vortex_MrHat:'''There are even more color matching for Mr.Hat'''
+
 		}
 		BuffName: 
 		{
@@ -64,6 +95,21 @@ Mods:{
 			NikoColor_HereIsKoishi:'''"Here Is Koishi!"'''
 			MadelineColor_HereIsKoishi:'''"Here Is Koishi!"'''
 			PurpleSatori_HereIsKoishi:'''"Here Is Satori!"'''
+			Ash_HereIsKoishi:'''"Here Is Koishi!"'''
+			BlackWhite_HereIsKoishi:'''"Here Is Koishi!"'''
+			Bright_HereIsKoishi:'''"Here Is Koishi!"'''
+			Cold_HereIsKoishi:'''"Here Is Koishi!"'''
+			CopperOld_HereIsKoishi:'''"Here Is Koishi!"'''
+			Crystal_HereIsKoishi:'''"Here Is Koishi!"'''
+			CyanBlack_HereIsKoishi:'''"Here Is Koishi!"'''
+			GoldenOld_HereIsKoishi:'''"Here Is Koishi!"'''
+			Luminite_HereIsKoishi:'''"Here Is Koishi!"'''
+			Meteor_HereIsKoishi:'''"Here Is Koishi!"'''
+			Nebula_HereIsKoishi:'''"Here Is Koishi!"'''
+			Sky_HereIsKoishi:'''"Here Is Koishi!"'''
+			Solar_HereIsKoishi:'''"Here Is Koishi!"'''
+			StarDust_HereIsKoishi:'''"Here Is Koishi!"'''
+			Vortex_HereIsKoishi:'''"Here Is Koishi!"'''
 		}
 		
 		BuffDescription: 
@@ -86,6 +132,21 @@ Mods:{
 			NikoColor_HereIsKoishi:'''——Wow, NikoStyle this Time.'''
 			MadelineColor_HereIsKoishi:'''——Wow, MadelineStyle this Time.'''
 			PurpleSatori_HereIsKoishi:'''——Satori changes her color as well.'''
+			Ash_HereIsKoishi:'''——Wow, Ash this Time.'''
+			BlackWhite_HereIsKoishi:'''——Wow, BlackWhite this Time.'''
+			Bright_HereIsKoishi:'''——Wow, Bright this Time.'''
+			Cold_HereIsKoishi:'''——Wow, Cold this Time.'''
+			CopperOld_HereIsKoishi:'''——Wow, Copper this Time.'''
+			Crystal_HereIsKoishi:'''——Wow, Crystal this Time.'''
+			CyanBlack_HereIsKoishi:'''——Wow, CyanBlack this Time.'''
+			GoldenOld_HereIsKoishi:'''——Wow, Golden this Time.'''
+			Luminite_HereIsKoishi:'''——Wow, Luminite this Time.'''
+			Meteor_HereIsKoishi:'''——Wow, Meteor this Time.'''
+			Nebula_HereIsKoishi:'''——Wow, Nebula this Time.'''
+			Sky_HereIsKoishi:'''——Wow, Sky this Time.'''
+			Solar_HereIsKoishi:'''——Wow, Solar this Time.'''
+			StarDust_HereIsKoishi:'''——Wow, StarDust this Time.'''
+			Vortex_HereIsKoishi:'''——Wow, Vortex this Time.'''
 		}
 	}
 }

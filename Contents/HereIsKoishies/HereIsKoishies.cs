@@ -74,4 +74,64 @@ namespace CuteKomeijiKoishi.Contents.HereIsKoishies
     {
         public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.PurpleSatori;
     }
+    public class Ash_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Ash;
+    }
+    public class BlackWhite_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.BlackWhite;
+    }
+    public class Bright_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Bright;
+    }
+    public class Cold_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Cold;
+    }
+    public class CopperOld_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.CopperOld;
+    }
+    public class Crystal_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Crystal;
+    }
+    public class CyanBlack_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.CyanBlack;
+    }
+    public class GoldenOld_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.GoldenOld;
+    }
+    public class Luminite_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Luminite;
+    }
+    public class Meteor_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Meteor;
+    }
+    public class Nebula_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Nebula;
+    }
+    public class Sky_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Sky;
+    }
+    public class Solar_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Solar;
+    }
+    public class StarDust_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.StarDust;
+    }
+    public class Vortex_HereIsKoishi : HereIsKoishi
+    {
+        public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Vortex;
+    }
 }

@@ -123,5 +123,109 @@ namespace CuteKomeijiKoishi.Contents.MrHats
             CreateRecipe().AddIngredient<Satori_MrHat>().AddIngredient(ItemID.PurpleDye).AddTile(TileID.Loom).Register();
         }
     }
-
+    public class Ash_MrHat : MrHat<Ash_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.PurpleDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class BlackWhite_MrHat : MrHat<BlackWhite_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.BlackAndWhiteDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Bright_MrHat : MrHat<Bright_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.ReflectiveDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Cold_MrHat : MrHat<Cold_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.BrightSilverDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class CopperOld_MrHat : MrHat<CopperOld_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.ReflectiveCopperDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Crystal_MrHat : MrHat<Crystal_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.ShiftingPearlSandsDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class CyanBlack_MrHat : MrHat<CyanBlack_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.SkyBlueandBlackDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class GoldenOld_MrHat : MrHat<GoldenOld_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.ReflectiveGoldDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Luminite_MrHat : MrHat<Luminite_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.VoidDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Meteor_MrHat : MrHat<Meteor_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.MeteoriteBar).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Nebula_MrHat : MrHat<Nebula_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.NebulaDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Sky_MrHat : MrHat<Sky_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.BrightSkyBlueDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Solar_MrHat : MrHat<Solar_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.SolarDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class StarDust_MrHat : MrHat<StarDust_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.StardustDye).AddTile(TileID.Loom).Register();
+        }
+    }
+    public class Vortex_MrHat : MrHat<Vortex_HereIsKoishi>
+    {
+        public override void AddRecipes()
+        {
+            CreateRecipe().AddIngredient<Origin_MrHat>().AddIngredient(ItemID.VortexDye).AddTile(TileID.Loom).Register();
+        }
+    }
 }
