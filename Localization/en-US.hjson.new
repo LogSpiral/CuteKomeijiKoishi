@@ -1,0 +1,345 @@
+
+Mods: {
+	CuteKomeijiKoishi: {
+		Items: {
+			YellowThread: {
+				DisplayName: Yellow Thread
+				Tooltip: Yellow Thread specially prepared for Mr.Hat!!
+			}
+
+			MrHat: {
+				DisplayName: Mr.Hat
+				Tooltip: Mr.Hat[i:29] Is a good friend for Koishi, use it To let her appear!
+			}
+
+			Origin_MrHat: {
+				DisplayName: Mr.Hat
+				Tooltip: Mr.Hat[i:29] Is a good friend for Koishi, use it To let her appear!
+			}
+
+			Satori_MrHat: {
+				DisplayName: Satori's Mr.Hat
+				Tooltip: Mr.Hat is even Satori's good friend!
+			}
+
+			SilverCyanDark_MrHat: {
+				DisplayName: ColdShadow Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			DarkGreen_MrHat: {
+				DisplayName: DeepForest Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Yuki_MrHat: {
+				DisplayName: YukiStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Mai_MrHat: {
+				DisplayName: MaiStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Pink_MrHat: {
+				DisplayName: Pinky Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Yumemi_MrHat: {
+				DisplayName: YumemiStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Flandre_MrHat: {
+				DisplayName: FlandreStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Golden_MrHat: {
+				DisplayName: Golden Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Diamond_MrHat: {
+				DisplayName: Diamond Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Silver_MrHat: {
+				DisplayName: Silver Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Copper_MrHat: {
+				DisplayName: Copper Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Crimson_MrHat: {
+				DisplayName: Crimson Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			NikoColor_MrHat: {
+				DisplayName: NikoStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			MadelineColor_MrHat: {
+				DisplayName: MadelineStyle Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			PurpleSatori_MrHat: {
+				DisplayName: Satori's Purple Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat, while this one is belong to Satori
+			}
+
+			Ash_MrHat: {
+				DisplayName: Ash Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			BlackWhite_MrHat: {
+				DisplayName: BlackWhite Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Bright_MrHat: {
+				DisplayName: Bright Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Cold_MrHat: {
+				DisplayName: Cold Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			CopperOld_MrHat: {
+				DisplayName: CopperOld Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Crystal_MrHat: {
+				DisplayName: Crystal Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			CyanBlack_MrHat: {
+				DisplayName: CyanBlack Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			GoldenOld_MrHat: {
+				DisplayName: GoldenOld Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Luminite_MrHat: {
+				DisplayName: Luminite Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Meteor_MrHat: {
+				DisplayName: Meteor Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Nebula_MrHat: {
+				DisplayName: Nebula Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Sky_MrHat: {
+				DisplayName: Sky Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Solar_MrHat: {
+				DisplayName: Solar Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			StarDust_MrHat: {
+				DisplayName: StarDust Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+
+			Vortex_MrHat: {
+				DisplayName: Vortex Mr.Hat
+				Tooltip: There are even more color matching for Mr.Hat
+			}
+		}
+
+		Buffs: {
+			HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Oh, Wait A Minute! She has had A Hat.
+			}
+
+			Origin_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Oh, Wait A Minute! She has had A Hat.
+			}
+
+			Satori_HereIsKoishi: {
+				DisplayName: '''"Here Is Satori!"'''
+				Description: ——Are you Komeiji sisters carved from the same mold?
+			}
+
+			SilverCyanDark_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, ColdShadow this Time.
+			}
+
+			DarkGreen_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, DeepForest this Time.
+			}
+
+			Yuki_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, YukiStyle this Time.
+			}
+
+			Mai_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, MaiStyle this Time.
+			}
+
+			Pink_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Pinky this Time.
+			}
+
+			Yumemi_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, YumemiStyle this Time.
+			}
+
+			Flandre_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, FlandreStyle this Time.
+			}
+
+			Golden_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Golden this Time.
+			}
+
+			Diamond_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Diamond this Time.
+			}
+
+			Silver_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Silver this Time.
+			}
+
+			Copper_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Copper this Time.
+			}
+
+			Crimson_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Crimson this Time.
+			}
+
+			NikoColor_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, NikoStyle this Time.
+			}
+
+			MadelineColor_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, MadelineStyle this Time.
+			}
+
+			PurpleSatori_HereIsKoishi: {
+				DisplayName: '''"Here Is Satori!"'''
+				Description: ——Satori changes her color as well.
+			}
+
+			Ash_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Ash this Time.
+			}
+
+			BlackWhite_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, BlackWhite this Time.
+			}
+
+			Bright_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Bright this Time.
+			}
+
+			Cold_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Cold this Time.
+			}
+
+			CopperOld_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Copper this Time.
+			}
+
+			Crystal_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Crystal this Time.
+			}
+
+			CyanBlack_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, CyanBlack this Time.
+			}
+
+			GoldenOld_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Golden this Time.
+			}
+
+			Luminite_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Luminite this Time.
+			}
+
+			Meteor_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Meteor this Time.
+			}
+
+			Nebula_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Nebula this Time.
+			}
+
+			Sky_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Sky this Time.
+			}
+
+			Solar_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Solar this Time.
+			}
+
+			StarDust_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, StarDust this Time.
+			}
+
+			Vortex_HereIsKoishi: {
+				DisplayName: '''"Here Is Koishi!"'''
+				Description: ——Wow, Vortex this Time.
+			}
+		}
+
+		Projectiles.Koishi.DisplayName: Koishi
+	}
+}

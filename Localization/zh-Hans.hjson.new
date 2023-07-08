@@ -1,0 +1,345 @@
+
+Mods: {
+	CuteKomeijiKoishi: {
+		Items: {
+			YellowThread: {
+				DisplayName: 黄线
+				Tooltip: 为帽子先生特意准备的黄线！！
+			}
+
+			MrHat: {
+				DisplayName: 帽子先生
+				Tooltip: 帽子先生[i:29]是恋恋的好朋友，快用它钓恋恋吧！
+			}
+
+			Origin_MrHat: {
+				DisplayName: 帽子先生
+				Tooltip: 帽子先生[i:29]是恋恋的好朋友，快用它钓恋恋吧！
+			}
+
+			Satori_MrHat: {
+				DisplayName: 觉酱的帽子先生
+				Tooltip: 帽子先生甚至还是觉酱的好朋友！
+			}
+
+			SilverCyanDark_MrHat: {
+				DisplayName: 寒影帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			DarkGreen_MrHat: {
+				DisplayName: 深緑散歩
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Yuki_MrHat: {
+				DisplayName: 雪配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Mai_MrHat: {
+				DisplayName: 舞配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Pink_MrHat: {
+				DisplayName: 粉色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Yumemi_MrHat: {
+				DisplayName: 梦美配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Flandre_MrHat: {
+				DisplayName: 芙兰配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Golden_MrHat: {
+				DisplayName: 耀金帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Diamond_MrHat: {
+				DisplayName: 辉钻帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Silver_MrHat: {
+				DisplayName: 闪银帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Copper_MrHat: {
+				DisplayName: 纯铜帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Crimson_MrHat: {
+				DisplayName: 绯红帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			NikoColor_MrHat: {
+				DisplayName: Niko配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			MadelineColor_MrHat: {
+				DisplayName: Madeline配色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			PurpleSatori_MrHat: {
+				DisplayName: 觉酱的紫色帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生，不过这个是属于觉酱的。
+			}
+
+			Ash_MrHat: {
+				DisplayName: 灰烬帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			BlackWhite_MrHat: {
+				DisplayName: 黑白帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Bright_MrHat: {
+				DisplayName: 亮帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Cold_MrHat: {
+				DisplayName: 冷帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			CopperOld_MrHat: {
+				DisplayName: 旧铜帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Crystal_MrHat: {
+				DisplayName: 水晶帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			CyanBlack_MrHat: {
+				DisplayName: 青黑帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			GoldenOld_MrHat: {
+				DisplayName: 旧金帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Luminite_MrHat: {
+				DisplayName: 夜明帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Meteor_MrHat: {
+				DisplayName: 陨铁帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Nebula_MrHat: {
+				DisplayName: 星云帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Sky_MrHat: {
+				DisplayName: 天域帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Solar_MrHat: {
+				DisplayName: 日耀帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			StarDust_MrHat: {
+				DisplayName: 星尘帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+
+			Vortex_MrHat: {
+				DisplayName: 星璇帽子先生
+				Tooltip: 甚至还有更多配色的帽子先生
+			}
+		}
+
+		Buffs: {
+			HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哦等等，她头上已经有帽子了。
+			}
+
+			Origin_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哦等等，她头上已经有帽子了。
+			}
+
+			Satori_HereIsKoishi: {
+				DisplayName: '''"小觉来了哦!"'''
+				Description: ——你们古明地姐妹是一个模子里刻出来的吧
+			}
+
+			SilverCyanDark_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是寒影配色的
+			}
+
+			DarkGreen_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是墨绿配色的
+			}
+
+			Yuki_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是雪配色的
+			}
+
+			Mai_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是舞的
+			}
+
+			Pink_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是粉色的
+			}
+
+			Yumemi_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是梦美配色的
+			}
+
+			Flandre_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是芙兰配色的
+			}
+
+			Golden_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是金色的
+			}
+
+			Diamond_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是天青色的
+			}
+
+			Silver_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是银色的
+			}
+
+			Copper_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是铜色的
+			}
+
+			Crimson_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是绯红色的
+			}
+
+			NikoColor_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是Niko配色的
+			}
+
+			MadelineColor_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是Madeline配色的
+			}
+
+			PurpleSatori_HereIsKoishi: {
+				DisplayName: '''"小觉来了哦!"'''
+				Description: ——觉也改配色了呢。
+			}
+
+			Ash_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是灰烬色的
+			}
+
+			BlackWhite_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是黑白色的
+			}
+
+			Bright_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是亮色的
+			}
+
+			Cold_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是冷色的
+			}
+
+			CopperOld_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是铜色的
+			}
+
+			Crystal_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是水晶色的
+			}
+
+			CyanBlack_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是青黑色的
+			}
+
+			GoldenOld_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是金色的
+			}
+
+			Luminite_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是夜明色的
+			}
+
+			Meteor_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是陨铁色的
+			}
+
+			Nebula_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是星云色的
+			}
+
+			Sky_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是天域色的
+			}
+
+			Solar_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是日耀色的
+			}
+
+			StarDust_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是星尘色的
+			}
+
+			Vortex_HereIsKoishi: {
+				DisplayName: '''"小恋在这里!"'''
+				Description: ——哇哦，这次是星璇色的
+			}
+		}
+
+		/* Projectiles.Koishi.DisplayName: Koishi */
+	}
+}
