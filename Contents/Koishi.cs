@@ -9,6 +9,7 @@ using Terraria.Audio;
 using Terraria.DataStructures;
 using Terraria.GameContent;
 using Terraria.GameContent.Creative;
+using Terraria.GameContent.ItemDropRules;
 using Terraria.Graphics.Shaders;
 using Terraria.ID;
 using Terraria.Localization;
@@ -19,14 +20,13 @@ namespace CuteKomeijiKoishi.Contents
 {
     public class KoishiGlobalNPC : GlobalNPC
     {
-        public override void SetupShop(int type, Chest shop, ref int nextSlot)
+        public override void ModifyShop(NPCShop shop)
         {
-            if (type == NPCID.Clothier)
+            if (shop.NpcType == NPCID.Clothier) 
             {
-                shop.item[nextSlot].SetDefaults(ModContent.ItemType<YellowThread>());
-                shop.item[nextSlot].shopCustomPrice = Item.buyPrice(0, 1);
-                nextSlot++;
+                shop.Add(new NPCShop.Entry(ModContent.ItemType<YellowThread>()));
             }
+            base.ModifyShop(shop);
         }
     }
     public class YellowThread : ModItem
@@ -34,6 +34,7 @@ namespace CuteKomeijiKoishi.Contents
         public override void SetDefaults()
         {
             Item.CloneDefaults(ItemID.GreenThread);
+            Item.shopCustomPrice = Item.buyPrice(0, 1);
         }
     }
     public abstract class MrHat<T> : ModItem where T : HereIsKoishi
