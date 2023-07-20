@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CuteKomeijiKoishi.Contents.HereIsKoishies
 {
-    public class Origin_HereIsKoishi : HereIsKoishi 
+    public class Origin_HereIsKoishi : HereIsKoishi  
     {
         public override Koishi.KoishiStyle KoishiStyle => Koishi.KoishiStyle.Origin;
     }
