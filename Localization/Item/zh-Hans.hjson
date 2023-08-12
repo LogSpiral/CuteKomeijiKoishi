@@ -1,4 +1,3 @@
-
 Mods: {
 	CuteKomeijiKoishi: {
 		Items: {
@@ -176,170 +175,170 @@ Mods: {
 		Buffs: {
 			HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哦等等，她头上已经有帽子了。'''
+				Description: ——哦等等，她头上已经有帽子了。
 			}
 
 			Origin_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哦等等，她头上已经有帽子了。'''
+				Description: ——哦等等，她头上已经有帽子了。
 			}
 
 			Satori_HereIsKoishi: {
 				DisplayName: '''"小觉来了哦!"'''
-				Description: '''——你们古明地姐妹是一个模子里刻出来的吧'''
+				Description: ——你们古明地姐妹是一个模子里刻出来的吧
 			}
 
 			SilverCyanDark_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是寒影配色的'''
+				Description: ——哇哦，这次是寒影配色的
 			}
 
 			DarkGreen_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是墨绿配色的'''
+				Description: ——哇哦，这次是墨绿配色的
 			}
 
 			Yuki_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是雪配色的'''
+				Description: ——哇哦，这次是雪配色的
 			}
 
 			Mai_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是舞的'''
+				Description: ——哇哦，这次是舞的
 			}
 
 			Pink_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是粉色的'''
+				Description: ——哇哦，这次是粉色的
 			}
 
 			Yumemi_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是梦美配色的'''
+				Description: ——哇哦，这次是梦美配色的
 			}
 
 			Flandre_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是芙兰配色的'''
+				Description: ——哇哦，这次是芙兰配色的
 			}
 
 			Golden_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是金色的'''
+				Description: ——哇哦，这次是金色的
 			}
 
 			Diamond_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是天青色的'''
+				Description: ——哇哦，这次是天青色的
 			}
 
 			Silver_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是银色的'''
+				Description: ——哇哦，这次是银色的
 			}
 
 			Copper_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是铜色的'''
+				Description: ——哇哦，这次是铜色的
 			}
 
 			Crimson_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是绯红色的'''
+				Description: ——哇哦，这次是绯红色的
 			}
 
 			NikoColor_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是Niko配色的'''
+				Description: ——哇哦，这次是Niko配色的
 			}
 
 			MadelineColor_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是Madeline配色的'''
+				Description: ——哇哦，这次是Madeline配色的
 			}
 
 			PurpleSatori_HereIsKoishi: {
 				DisplayName: '''"小觉来了哦!"'''
-				Description: '''——觉也改配色了呢。'''
+				Description: ——觉也改配色了呢。
 			}
 
 			Ash_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是灰烬色的'''
+				Description: ——哇哦，这次是灰烬色的
 			}
 
 			BlackWhite_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是黑白色的'''
+				Description: ——哇哦，这次是黑白色的
 			}
 
 			Bright_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是亮色的'''
+				Description: ——哇哦，这次是亮色的
 			}
 
 			Cold_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是冷色的'''
+				Description: ——哇哦，这次是冷色的
 			}
 
 			CopperOld_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是铜色的'''
+				Description: ——哇哦，这次是铜色的
 			}
 
 			Crystal_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是水晶色的'''
+				Description: ——哇哦，这次是水晶色的
 			}
 
 			CyanBlack_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是青黑色的'''
+				Description: ——哇哦，这次是青黑色的
 			}
 
 			GoldenOld_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是金色的'''
+				Description: ——哇哦，这次是金色的
 			}
 
 			Luminite_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是夜明色的'''
+				Description: ——哇哦，这次是夜明色的
 			}
 
 			Meteor_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是陨铁色的'''
+				Description: ——哇哦，这次是陨铁色的
 			}
 
 			Nebula_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是星云色的'''
+				Description: ——哇哦，这次是星云色的
 			}
 
 			Sky_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是天域色的'''
+				Description: ——哇哦，这次是天域色的
 			}
 
 			Solar_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是日耀色的'''
+				Description: ——哇哦，这次是日耀色的
 			}
 
 			StarDust_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是星尘色的'''
+				Description: ——哇哦，这次是星尘色的
 			}
 
 			Vortex_HereIsKoishi: {
 				DisplayName: '''"小恋在这里!"'''
-				Description: '''——哇哦，这次是星璇色的'''
+				Description: ——哇哦，这次是星璇色的
 			}
 		}
 
-		/* Projectiles.Koishi.DisplayName: Koishi */
+		// Projectiles.Koishi.DisplayName: Koishi
 	}
 }

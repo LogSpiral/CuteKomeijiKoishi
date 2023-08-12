@@ -1,4 +1,3 @@
-
 Mods: {
 	CuteKomeijiKoishi: {
 		Items: {
@@ -176,167 +175,167 @@ Mods: {
 		Buffs: {
 			HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Oh, Wait A Minute! She has had A Hat.'''
+				Description: ——Oh, Wait A Minute! She has had A Hat.
 			}
 
 			Origin_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Oh, Wait A Minute! She has had A Hat.'''
+				Description: ——Oh, Wait A Minute! She has had A Hat.
 			}
 
 			Satori_HereIsKoishi: {
 				DisplayName: '''"Here Is Satori!"'''
-				Description: '''——Are you Komeiji sisters carved from the same mold?'''
+				Description: ——Are you Komeiji sisters carved from the same mold?
 			}
 
 			SilverCyanDark_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, ColdShadow this Time.'''
+				Description: ——Wow, ColdShadow this Time.
 			}
 
 			DarkGreen_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, DeepForest this Time.'''
+				Description: ——Wow, DeepForest this Time.
 			}
 
 			Yuki_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, YukiStyle this Time.'''
+				Description: ——Wow, YukiStyle this Time.
 			}
 
 			Mai_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, MaiStyle this Time.'''
+				Description: ——Wow, MaiStyle this Time.
 			}
 
 			Pink_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Pinky this Time.'''
+				Description: ——Wow, Pinky this Time.
 			}
 
 			Yumemi_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, YumemiStyle this Time.'''
+				Description: ——Wow, YumemiStyle this Time.
 			}
 
 			Flandre_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, FlandreStyle this Time.'''
+				Description: ——Wow, FlandreStyle this Time.
 			}
 
 			Golden_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Golden this Time.'''
+				Description: ——Wow, Golden this Time.
 			}
 
 			Diamond_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Diamond this Time.'''
+				Description: ——Wow, Diamond this Time.
 			}
 
 			Silver_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Silver this Time.'''
+				Description: ——Wow, Silver this Time.
 			}
 
 			Copper_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Copper this Time.'''
+				Description: ——Wow, Copper this Time.
 			}
 
 			Crimson_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Crimson this Time.'''
+				Description: ——Wow, Crimson this Time.
 			}
 
 			NikoColor_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, NikoStyle this Time.'''
+				Description: ——Wow, NikoStyle this Time.
 			}
 
 			MadelineColor_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, MadelineStyle this Time.'''
+				Description: ——Wow, MadelineStyle this Time.
 			}
 
 			PurpleSatori_HereIsKoishi: {
 				DisplayName: '''"Here Is Satori!"'''
-				Description: '''——Satori changes her color as well'''
+				Description: ——Satori changes her color as well
 			}
 
 			Ash_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Ash this Time.'''
+				Description: ——Wow, Ash this Time.
 			}
 
 			BlackWhite_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, BlackWhite this Time.'''
+				Description: ——Wow, BlackWhite this Time.
 			}
 
 			Bright_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Bright this Time.'''
+				Description: ——Wow, Bright this Time.
 			}
 
 			Cold_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Cold this Time.'''
+				Description: ——Wow, Cold this Time.
 			}
 
 			CopperOld_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Copper this Time.'''
+				Description: ——Wow, Copper this Time.
 			}
 
 			Crystal_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Crystal this Time.'''
+				Description: ——Wow, Crystal this Time.
 			}
 
 			CyanBlack_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, CyanBlack this Time.'''
+				Description: ——Wow, CyanBlack this Time.
 			}
 
 			GoldenOld_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Golden this Time.'''
+				Description: ——Wow, Golden this Time.
 			}
 
 			Luminite_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Luminite this Time.'''
+				Description: ——Wow, Luminite this Time.
 			}
 
 			Meteor_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Meteor this Time.'''
+				Description: ——Wow, Meteor this Time.
 			}
 
 			Nebula_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Nebula this Time.'''
+				Description: ——Wow, Nebula this Time.
 			}
 
 			Sky_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Sky this Time.'''
+				Description: ——Wow, Sky this Time.
 			}
 
 			Solar_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Solar this Time.'''
+				Description: ——Wow, Solar this Time.
 			}
 
 			StarDust_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, StarDust this Time.'''
+				Description: ——Wow, StarDust this Time.
 			}
 
 			Vortex_HereIsKoishi: {
 				DisplayName: '''"Here Is Koishi!"'''
-				Description: '''——Wow, Vortex this Time.'''
+				Description: ——Wow, Vortex this Time.
 			}
 		}
 
