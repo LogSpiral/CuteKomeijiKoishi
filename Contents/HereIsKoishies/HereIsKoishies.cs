@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CuteKomeijiKoishi.Contents.HereIsKoishies
+﻿namespace CuteKomeijiKoishi.Contents.HereIsKoishies
 {
     public class Origin_HereIsKoishi : HereIsKoishi  
     {
